@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 <!--
-**Kais4r/Kais4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pew pew
 -->
 
 ## About me
-Final year uni student who love coding web in React and game in Unity and Cocos Creator
+Final-year university student passionate about web development using React and game development with Godot Engine.
+Enthusiastic about the latest technologies in the React ecosystem, such as Hono API and Bun.js runtime.
+A quick learner, eager to adapt to new technologies and challenges as required by the company.
 
 ## Love To Code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
