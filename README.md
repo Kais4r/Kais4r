@@ -6,8 +6,8 @@ Pew pew
 
 ## About me
 Final-year university student passionate about web development using React and game development with Godot Engine.<br>
-Enthusiastic about the latest technologies in the React ecosystem, such as Hono API and Bun.js runtime.<br>
 A quick learner, eager to adapt to new technologies and challenges as required by the company.
+Enthusiastic about the latest technologies in the React ecosystem, such as Hono API and Bun.js runtime.<br>
 
 ## Love To Code
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
