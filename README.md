@@ -1,5 +1,5 @@
-## About me
-Go big or go home.
+## About Me  
+Go big or go home. I'm always ready to learn and adapt to whatever the company needs — whether it's a new technology, tool, or process. Passionate about building great things and pushing beyond limits.
 
 <!--
 ## Love To Code
