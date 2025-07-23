@@ -1,5 +1,5 @@
 ## About Me  
-Go big or go home. I'm always ready to learn and adapt—whether it's a new technology, tool, or process. I’m driven by the challenge of building impactful solutions and pushing beyond limits. Recently, I’ve developed a strong interest in cybersecurity and have been actively exploring how to build safer, more resilient systems.
+Go big or go home. I'm always ready to learn and adapt—whether it's a new technology, tool, or process. I’m driven by the challenge of building impactful solutions and pushing beyond limits. I’ve developed a strong interest in project management, cybersecurity and have been actively exploring how to build safer, more resilient systems.
 
 <!--
 ## Love To Code
