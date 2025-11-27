@@ -1,7 +1,8 @@
 ## About Me  
 
 Linux dweller
-Javascript cult
+<br/>
+Javascript cult, another month, another new Framework
 
 <!--
 ## Love To Code
