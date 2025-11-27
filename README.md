@@ -1,10 +1,7 @@
 ## About Me  
 
 Linux dweller
-<br/>
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-<br/>
-Real men test on production
+Javascript cult
 
 <!--
 ## Love To Code
